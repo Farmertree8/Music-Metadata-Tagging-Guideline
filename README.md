@@ -12,10 +12,15 @@ These guidelines are proposed to address this issue.
 Rules are applied from top to bottom in descending order of importance:
 
 > `0. Formatting Principles`
+> 
 > `1. Respect Original Formatting`
+> 
 > `2. Preserve Original Text`
+> 
 > `3. Correct Attribution`
+> 
 > `4. Ignore Annotations`
+> 
 > `5. Follow Conventions`
 
 ## 0. Formatting Principles
@@ -85,7 +90,9 @@ Music production often involves multiple contributors and fictional characters. 
 5. `Circle`
 
 > Additionally:
+> 
 > - `Alias` refers to alternate names or pseudonyms of the composer.
+> 
 > - Handling is described in point 5 above.
 
 ## 3. Correct Attribution
